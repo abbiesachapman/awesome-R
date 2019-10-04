@@ -462,6 +462,7 @@ Angle Regression
 * [lme4](https://github.com/lme4/lme4) - Generalized mixed-effects models.
 * [nlme](https://cran.r-project.org/web/packages/nlme/index.html) - Mixed-effects models, handling user-specified matrix of residual covariance, relevant for the anaysis of repeated observations in longitudinal trials.
 * [glmmTMB](https://cran.r-project.org/web/packages/glmmTMB/index.html) - Generalized mixed-effects models, handling user-specified matrix of residual covariance, relevant for the anaysis of repeated observations in longitudinal trials.
+* .[vegan](https://cran.r-project.org/web/packages/vegan/index.html) - Community ecology package useful for processing biological datasets to analyse diversity and conduct multivariate statistical analyses.
 
 ## Network Analysis
 *Packages to construct, analyze and visualize network data.*
